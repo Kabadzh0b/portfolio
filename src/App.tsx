@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 // @ts-ignore
 import avatar from './images/avatar.png';
-
+//
 function App() {
     return (
         <div className="App">
