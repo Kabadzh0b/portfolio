@@ -17,3 +17,20 @@
 .Hero{
   margin-top: 10vh;
 }
+
+.MarginTop5{
+  margin-top: 5vh;
+}
+
+.PaddingBot5{
+  padding-bottom: 5vh;
+}
+
+.BackGroundDarkBlue{
+  background-color: #6E07F3;
+}
+
+.Art{
+  width: 600px;
+  height: 600px;
+}
