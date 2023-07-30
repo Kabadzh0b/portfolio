@@ -34,3 +34,8 @@
   width: 600px;
   height: 600px;
 }
+
+.InLineFlexWrap{
+  display: inline-flex;
+}
+

@@ -1,0 +1,14 @@
+.Project{
+    border: solid #6E07F3;
+    width: 25vw;
+    height: 33vh;
+    margin-left: 2vw;
+}
+
+.Link{
+    font-size: 30px;
+    font-style: revert;
+    cursor: pointer;
+    text-decoration: none;
+    color: #6E07F3;
+}

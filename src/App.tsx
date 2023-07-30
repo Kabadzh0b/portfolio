@@ -4,6 +4,7 @@ import './App.css';
 import avatar from './images/avatar.png';
 // @ts-ignore
 import art from './images/gummy-coding.png';
+import Project from "./components/Project/Project";
 function App() {
     return (
         <div className="App">
@@ -41,6 +42,10 @@ function App() {
             </section>
             <section className="MarginTop5">
                 <h1>My projects</h1>
+                <div className="InLineFlexWrap SpaceBetween">
+                    <Project name={"TypeScriptChess"} link={""} description={"Interesting project"}/>
+                    <Project name={"Match game"} link={"https://stormotion-internship-js-test-task-moa3.vercel.app/"} description={"Match game"}/>
+                </div>
             </section>
         </div>
     );
