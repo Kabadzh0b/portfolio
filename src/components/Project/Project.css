@@ -1,14 +1,19 @@
 .Project{
     border: solid #6E07F3;
-    width: 25vw;
+    width: 30vw;
     height: 33vh;
     margin-left: 2vw;
+    margin-top: 2vh;
+    border-radius: 25px;
+}
+
+.Name{
+    font-size: 30px;
+    font-style: revert;
+    color: #6E07F3;
 }
 
 .Link{
-    font-size: 30px;
-    font-style: revert;
     cursor: pointer;
     text-decoration: none;
-    color: #6E07F3;
 }

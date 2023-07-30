@@ -1,5 +1,6 @@
 export interface ProjectProps{
     name:string,
-    link:string | null,
+    deployedLink: string,
+    gitHubLink: string,
     description:string,
 }

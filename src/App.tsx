@@ -43,8 +43,12 @@ function App() {
             <section className="MarginTop5">
                 <h1>My projects</h1>
                 <div className="InLineFlexWrap SpaceBetween">
-                    <Project name={"TypeScriptChess"} link={""} description={"Interesting project"}/>
-                    <Project name={"Match game"} link={"https://stormotion-internship-js-test-task-moa3.vercel.app/"} description={"Match game"}/>
+                    <Project name={"TypeScriptChess"} deployedLink={""} gitHubLink={"https://github.com/Kabadzh0b/TypeScriptChess"} description={"Interesting project"}/>
+                    <Project name={"Match game"} deployedLink={"https://stormotion-internship-js-test-task-moa3.vercel.app/"} gitHubLink={""} description={"Match game"}/>
+                    <Project name={"Book storage"} deployedLink={""} gitHubLink={"https://github.com/Kabadzh0b/Book-storage"} description={"Book app"}/>
+                    <Project name={"Book storage"} deployedLink={""} gitHubLink={"https://github.com/Kabadzh0b/Book-storage"} description={"Book app"}/>
+                    <Project name={"Book storage"} deployedLink={""} gitHubLink={"https://github.com/Kabadzh0b/Book-storage"} description={"Book app"}/>
+
                 </div>
             </section>
         </div>
