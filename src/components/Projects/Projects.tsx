@@ -1,11 +1,12 @@
 import Project from "./Project/Project";
 import React from "react";
+import './Projects.css'
 
 const Projects = () => {
     return (
-        <div className="MarginTop5">
-            <h1>My projects</h1>
-            <div className="InLineFlexWrap SpaceBetween">
+        <div className="Projects">
+            <h1 className="ProjectsHeader">My projects</h1>
+            <div className="ProjectsContainer InLineFlexWrap SpaceEvenly">
                 <Project name={"TypeScriptChess"} deployedLink={""}
                          gitHubLink={"https://github.com/Kabadzh0b/TypeScriptChess"}
                          description={"Interesting project"}/>

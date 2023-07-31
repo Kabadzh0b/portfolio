@@ -1,0 +1,23 @@
+.Projects {
+    margin-top: 5rem;
+}
+
+.ProjectsHeader{
+    color: #c3e9ec;
+}
+
+.ProjectsContainer h1 {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.InLineFlexWrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.SpaceEvenly {
+    justify-content: space-evenly;
+}

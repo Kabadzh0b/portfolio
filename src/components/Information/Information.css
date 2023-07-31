@@ -4,6 +4,11 @@
     padding: 40px;
 }
 
+.Art{
+    width: 600px;
+    height: 600px;
+}
+
 .BackGroundDarkBlue h1 {
     font-size: 28px;
     font-weight: bold;
