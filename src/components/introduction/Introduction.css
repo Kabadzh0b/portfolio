@@ -1,0 +1,28 @@
+.Hero {
+    background-color: #00aaff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.HeroHeader {
+    text-align: center;
+}
+
+.HeroHeader h1 {
+    font-size: 36px;
+    color: #fff;
+}
+
+.HeroHeader p {
+    font-size: 18px;
+    color: #e6e6e6;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
