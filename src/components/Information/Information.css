@@ -1,0 +1,18 @@
+.BackGroundDarkBlue {
+    background-color: #143167;
+    color: #fff;
+    padding: 40px;
+}
+
+.BackGroundDarkBlue h1 {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.BackGroundDarkBlue p {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: center;
+}

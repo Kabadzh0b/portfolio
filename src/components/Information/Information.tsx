@@ -1,10 +1,11 @@
 // @ts-ignore
 import art from "../../images/gummy-coding.png";
 import React from "react";
+import './Information.css';
 
 const Information = () => {
     return (
-        <div className="BackGroundDarkBlue MarginTop5 PaddingBot5">
+        <div className="BackGroundDarkBlue">
             <img className="Art" src={art} alt="cute art"/>
             <h1>Hi, I’m Max. Nice to meet you.</h1>
             <p>Since beginning my journey as a freelance designer over 11 years ago, I've done remote<br/>
