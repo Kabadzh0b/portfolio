@@ -1,4 +1,4 @@
-import {ProjectProps} from "../../types/ProjectProps";
+import {ProjectProps} from "../../../types/ProjectProps";
 import './Project.css'
 
 const Project = ({name, deployedLink, gitHubLink, description}: ProjectProps) => {
