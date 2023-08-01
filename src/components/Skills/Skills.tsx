@@ -8,11 +8,11 @@ const Skills = () => {
     return(
         <div className="SkillsContainer">
             <h1>My Skills</h1>
-            <ul className="SkillList">
+            <div className="SkillList">
                 <Languages/>
                 <Technologies/>
                 <DevTools/>
-            </ul>
+            </div>
         </div>
     )
 }
